@@ -6,6 +6,7 @@ o) It manages the complete lifecycle of both students and faculty, from initial 
 
 🛠️ Tech Stack
 👉 Language: Java (JDK 22 used)
+
 👉 Frontend UI: Java Swing & AWT (Abstract Window Toolkit)
 👉 Backend Database: MySQL
 👉 Connectivity: JDBC (Java Database Connectivity)
