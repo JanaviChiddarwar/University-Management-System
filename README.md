@@ -3,23 +3,16 @@
 # 🏗️ Project Overview
 
 o) The system is built to replace manual record-keeping with a digital, automated environment. 
-
 o) It manages the complete lifecycle of both students and faculty, from initial registration to leave management and financial transactions.
 
 
-
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 👉 Language: Java (JDK 22 used)
-
 👉 Frontend UI: Java Swing & AWT (Abstract Window Toolkit)
-
 👉 Backend Database: MySQL
-
 👉 Connectivity: JDBC (Java Database Connectivity)
-
 👉 External Library: RS2XML (for seamless database-to-JTable data binding)
-
 
 
 💡 Core Concepts Implemented
