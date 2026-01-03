@@ -6,6 +6,8 @@ o) The system is built to replace manual record-keeping with a digital, automate
 
 o) It manages the complete lifecycle of both students and faculty, from initial registration to leave management and financial transactions.
 
+
+
 🛠️ Tech Stack
 
 👉 Language: Java (JDK 22 used)
@@ -17,6 +19,8 @@ o) It manages the complete lifecycle of both students and faculty, from initial 
 👉 Connectivity: JDBC (Java Database Connectivity)
 
 👉 External Library: RS2XML (for seamless database-to-JTable data binding)
+
+
 
 💡 Core Concepts Implemented
 
@@ -30,6 +34,8 @@ o) It manages the complete lifecycle of both students and faculty, from initial 
 
 ☑️ Relational Database Design: Engineered a normalized SQL schema to manage complex relationships between students, their courses, and fee structures.
 
+
+
 🌟 Key Functionality
 
 👉 Comprehensive Management: Dedicated modules for adding, updating, and searching faculty and student records.
@@ -41,6 +47,8 @@ o) It manages the complete lifecycle of both students and faculty, from initial 
 👉 Leave Portal: Digital leave application and tracking for both students and faculty.
 
 👉 System Utilities: Integrated productivity tools including a custom Notepad and Calculator accessible directly within the app.
+
+
 
 🎓 Learning Outcomes
 
