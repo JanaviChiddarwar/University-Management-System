@@ -1,21 +1,30 @@
 # University-Management-System
 
+
+
 # 🏗️ Project Overview
 
 o) The system is built to replace manual record-keeping with a digital, automated environment. 
+
 o) It manages the complete lifecycle of both students and faculty, from initial registration to leave management and financial transactions.
+
 
 
 # 🛠️ Tech Stack
 
 👉 Language: Java (JDK 22 used)
+
 👉 Frontend UI: Java Swing & AWT (Abstract Window Toolkit)
+
 👉 Backend Database: MySQL
+
 👉 Connectivity: JDBC (Java Database Connectivity)
+
 👉 External Library: RS2XML (for seamless database-to-JTable data binding)
 
 
-💡 Core Concepts Implemented
+
+# 💡 Core Concepts Implemented
 
 ☑️ Object-Oriented Programming (OOP): Utilized Inheritance (Extending JFrame), Interface Implementation (ActionListener), and Encapsulation to build modular, reusable code.
 
@@ -29,7 +38,7 @@ o) It manages the complete lifecycle of both students and faculty, from initial 
 
 
 
-🌟 Key Functionality
+# 🌟 Key Functionality
 
 👉 Comprehensive Management: Dedicated modules for adding, updating, and searching faculty and student records.
 
@@ -43,7 +52,7 @@ o) It manages the complete lifecycle of both students and faculty, from initial 
 
 
 
-🎓 Learning Outcomes
+# 🎓 Learning Outcomes
 
 ☑️ Deepened understanding of Java Swing for desktop application development.
 
